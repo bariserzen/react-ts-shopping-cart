@@ -1,1 +1,1 @@
-npm install react-bootstrap bootstrap
+DEMO: https://bariserzen-ts1.netlify.app/
